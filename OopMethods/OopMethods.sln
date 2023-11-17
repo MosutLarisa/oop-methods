@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopMethods", "OopMethods.cs
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7F5A6B6-911E-4111-922B-13D45CD83203}"
 	ProjectSection(SolutionItems) = preProject
+		ArrayHelper.cs = ArrayHelper.cs
 		ConsoleHelper.cs = ConsoleHelper.cs
+		MathHelper.cs = MathHelper.cs
 	EndProjectSection
 EndProject
 Global
